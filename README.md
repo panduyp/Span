@@ -1,10 +1,13 @@
 # Public Repository Petunjuk Teknis SPAN
 
+Repository petunjuk teknis SPAN yang untuk sementara dikelola
+oleh cakyus at gmail dot com sebelum dipindah ke Kanwil Makassar.
+
 ## Kontribusi
 
-Untuk dapat ikut berkontribusi, Anda tidak perlu menginstall software
-tambahan. Cukup dengan hanya memiliki akun di github dot com dan
-koneksi internet yang cukup.
+Untuk dapat ikut berkontribusi, Anda nggak perlu install software
+tambahan. Kami juga ogah ribet. Cukup dengan hanya memiliki
+akun di github dot com dan koneksi internet.
 
 ### Langkah kontribusi
 
@@ -23,5 +26,5 @@ koneksi internet yang cukup.
     ![kontribusi-daftar-pull-request](src/kontribusi-daftar-pull-request.jpg)
  8. Selesai.
  
-Selanjutnya collaborator akan melakukan review terhadap pull request
-yang Anda ajukan.
+Selanjutnya collaborator akan melakukan review terhadap
+pull request yang Anda ajukan.
