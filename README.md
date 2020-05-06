@@ -1,7 +1,7 @@
 # Public Repository Petunjuk Teknis SPAN
 
 Repository petunjuk teknis SPAN yang untuk sementara dikelola
-oleh cakyus at gmail dot com sebelum dipindah ke Kanwil Makassar.
+oleh cakyus at gmail dot com.
 
 ## Kontribusi
 
