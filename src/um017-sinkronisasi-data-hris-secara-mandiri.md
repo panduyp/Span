@@ -1,22 +1,8 @@
-Petunjuk Teknis Permintaan Update Data Kepegawaian Melalui Aplikasi OMSPAN  
+# Sinkronisasi Data HRIS secara mandiri
 
-1.	Login  
-
-    a.	Buka browser dan masuk ke alamat web OMSPAN :  
-https://spanint.kemenkeu.go.id/
-    
-    b.	User kemudian masuk menggunakan user dan password OMSPAN level KPPN untuk mengakses halaman utama OMSPAN. Kemudian klik Menu  Referensi  Pengelola Data Referensi dan Pengguna Sistem.  
-![tes](src/ptudk_login.jpg)
-
-    c.	Selanjutnya User Login ke Aplikasi dengan meng-klik tombol Login yang terdapat di sebelah kanan atas. User mengisi username dan password sebagaimana aplikasi e-performance.  
-![tes](src/ptudk_login_kemenkeu.jpg)  
-
-
-User telah login sebagai UM_USER.
-2.	Menu Permintaan Updaet Data Kepegawaian  
-    a.	Setelah berhasil login, maka user dapat mengirimkan permintaan update data kepegawaian melalui panel menu sebagai berikut :  
-![tes](src/ptudk_update_data_kepeg.JPG)  
-
-    b.	User kemudian mengetikkan data NIP pegawai yang akan diupdate pada form yang ada pada menu tersebut dan klik “kirim” :  
-![tes](src/ptudk_update_data_kepeg_2.JPG)
+ 1. Login dengan responsibility UM_USER.
+ 2.	Klik menu Permintaan Update Data Kepegawaian  
+    ![um017-menu](um017-menu.jpg)
+ 3. Klik "kirim"
+    ![um017-submit](um017-submit.jpg)
  
