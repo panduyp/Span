@@ -1,8 +1,8 @@
-1. Login  
-    a. Buka browser dan masuk ke alamat https://spanint.kemenkeu.go.id/  
-    b. Isi username dan password untuk mengakses halaman utama OMSPAN. Kemudian klik Menu -> Referensi -> Pengelola Data Referensi dan Pengguna Sistem  
-    ![tes](src/LOGIN.JPG)   
-    c. Selanjutnya User Login ke Aplikasi dengan meng-klik tombol Login yang terdapat di sebelah kanan atas. User mengisi username dan password sebagaimana aplikasi e-performance  
-    ![tes](src/ptudk_login_kemenkeu.jpg)
-    d.	User telah login sebagai UM_USER  
-    
+# Login SSO Pusintek
+
+ 1. Buka browser dan masuk ke alamat https://spanint.kemenkeu.go.id/
+ 2. Login dengan user OMSPAN untuk mengakses halaman utama.
+ 3. Klik Menu -> Referensi -> Pengelola Data Referensi dan Pengguna Sistem  
+    ![um-login](um-login.jpg)
+ 4. Login dengan user dan password sebagaimana Aplikasi E-Performance  
+    ![um-login-kemenkeu](um-login-kemenkeu.jpg)
