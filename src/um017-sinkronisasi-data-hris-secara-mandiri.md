@@ -6,4 +6,5 @@
  3. Klik "kirim"
     ![um017-submit](um017-submit.jpg)  
  4. Tekan tombol refresh pada browser sampai dengan status request berubah menjadi "C C"  
-    ![um017-hasil](um017_hasil.jpg)
+    ![um017-hasil](um017_hasil.jpg)  
+ 5. Jika masih terdapat error yang bersimbol "C E" pada status request, maka ulangi lagi langkah point 2.
